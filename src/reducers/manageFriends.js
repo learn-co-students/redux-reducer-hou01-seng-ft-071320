@@ -7,6 +7,3 @@ export function manageFriends(state, action){
             return state;
     }
 }
-
-
-let state = {freinds: []}
